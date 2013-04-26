@@ -5,6 +5,6 @@
 	
 	foreach($date as $d) {
 	
-		echo date('M d, Y', $d) . "\r\n"; 
+		echo date('M d, Y', $d) . "\r\n\n"; 
 		
 	}
